@@ -8,6 +8,8 @@ provide a 'hint' to the generator on which type of data to generate. The **gan_m
 directly feed in labels to generate MNIST data given a certain label.
 Note that full example are hosted on google colab on the link below.
 
-###Colab notebook links
+### Colab notebook links
+
 -gan_mnist: https://drive.google.com/open?id=1Rzk1j0Pirc4bLmbbDOGhyZ8nyZ7EzeMi
+
 -gan_mnist_supervised: https://drive.google.com/open?id=1HdoRvYCYaPxrKGIlbSzTrVsTY64Bwh3t
